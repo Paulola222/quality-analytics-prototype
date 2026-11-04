@@ -34,7 +34,7 @@ Sample output is in `docs/SAMPLE_REPORT.md`. The benchmark and its limits are in
 
 ## Development note
 
-This code was written with the help of an AI assistant (Claude). The author defined the problem and the methods, reviewed and tested the code, and is responsible for it.
+The author defined the problem and the methods, reviewed and tested the code, and is responsible for it.
 
 ## License and citation
 
