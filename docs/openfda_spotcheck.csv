@@ -1,0 +1,49 @@
+cluster,recall_number,date,class,reason
+vial | particulate / foreign matter,D-1328-2015,2015-03-18,critical,Presence of Particulate Matter
+vial | particulate / foreign matter,D-1331-2015,2015-03-18,critical,Presence of Particulate Matter
+vial | particulate / foreign matter,D-1334-2015,2015-03-23,critical,Presence of Particulate Matter
+vial | particulate / foreign matter,D-1329-2015,2015-04-23,critical,Presence of Particulate Matter
+vial | particulate / foreign matter,D-1137-2016,2016-03-23,critical,Presence of Particulate Matter: Confirmed customer complaint for the presence of particulate matter.
+vial | particulate / foreign matter,D-1033-2016,2016-05-06,major,Presence of Particulate Matter: Cardboard
+vial | sterility / microbial,D-0288-2021,2021-02-17,major,Lack of Assurance of Sterility
+vial | sterility / microbial,D-0375-2021,2021-04-26,major,Lack of Assurance of Sterility
+vial | sterility / microbial,D-0732-2021,2021-07-29,major,Lack of Assurance of Sterility
+vial | sterility / microbial,D-0827-2021,2021-08-27,major,Lack of Assurance of Sterility
+vial | sterility / microbial,D-0717-2022,2021-09-08,major,Lack of Assurance of Sterility
+vial | sterility / microbial,D-0899-2021,2021-09-22,major,Lack of Assurance of Sterility
+vial | sterility / microbial,D-0421-2015,2015-02-18,major,Lack of Assurance of Sterility; due to leaking vials
+vial | sterility / microbial,D-1104-2015,2015-05-18,major,Lack of Assurance of Sterility
+vial | sterility / microbial,D-0371-2016,2015-10-16,major,Lack of Assurance of Sterility
+vial | sterility / microbial,D-0733-2016,2015-12-29,major,Lack of assurance of sterility
+vial | sterility / microbial,D-0741-2016,2016-02-04,major,Lack of Assurance of Sterility
+vial | sterility / microbial,D-1172-2016,2016-05-13,major,Lack of Assurance of Sterility
+other injectable | sterility / microbial,D-0693-2021,2021-07-09,major,Lack of Assurance of Sterility
+other injectable | sterility / microbial,D-0066-2022,2021-08-13,major,Lack of Assurance of Sterility: FDA inspection raised sterility assurance concerns
+other injectable | sterility / microbial,D-0104-2022,2021-10-12,major,Lack of assurance of sterility
+other injectable | sterility / microbial,D-0308-2022,2021-11-12,major,Lack of Assurance of Sterility
+other injectable | sterility / microbial,D-0265-2022,2021-11-30,major,Lack of sterility assurance: bag has the potential to leak.
+other injectable | sterility / microbial,D-0655-2022,2022-02-25,major,Lack of sterility assurance: leaking bags
+vial | impurity / degradation / stability,D-0309-2021,2021-03-04,minor,Failed Impurity/Degradation Specifications: Out-of-specifications results observed for impurities during stability testing.
+vial | impurity / degradation / stability,D-0801-2021,2021-09-03,minor,Failed Impurities/Degradation Specifications
+vial | impurity / degradation / stability,D-0576-2022,2022-01-19,minor,Failed stability specifications
+vial | impurity / degradation / stability,D-0982-2022,2022-05-10,minor,Failed Impurities/Degradation Specifications.
+vial | impurity / degradation / stability,D-1471-2022,2022-08-08,minor,Failed Impurities/Degradation Specifications: Identification of an unknown impurity at the 12-month stability point.
+vial | impurity / degradation / stability,D-0059-2023,2022-10-13,minor,Failed Stability Specifications
+prefilled syringe or pen | sterility / microbial,D-1145-2022,2022-05-06,major,Lack of assurance of sterility
+prefilled syringe or pen | sterility / microbial,D-0963-2022,2022-05-18,major,Lack of Assurance of Sterility
+prefilled syringe or pen | sterility / microbial,D-1279-2022,2022-06-30,major,Lack of Assurance of Sterility
+prefilled syringe or pen | sterility / microbial,D-1514-2022,2022-07-27,major,Lack of Assurance of Sterility
+prefilled syringe or pen | sterility / microbial,D-0099-2023,2023-01-06,major,Lack of Assurance of Sterility
+prefilled syringe or pen | sterility / microbial,D-0417-2024,2023-11-09,major,Lack of Assurance of Sterility
+vial | impurity / degradation / stability,D-1078-2015,2015-04-24,minor,Failed Impurities/Degradation Specifications: Product is out of specification for a known degradant.
+vial | impurity / degradation / stability,D-1234-2015,2015-06-04,major,"Failed Impurities/Degradation Specifications; out-of-specification for color, impurity, and degradation"
+vial | impurity / degradation / stability,D-0231-2016,2015-08-20,minor,Failed Impurity/Degradation Specifications: Out of Specifications result obtained for a known impurity.
+vial | impurity / degradation / stability,D-0818-2016,2016-04-07,minor,Failed Impurities/Degradation Specifications: Firm is recalling product due to an impurity out-of-specification result.
+vial | impurity / degradation / stability,D-0866-2016,2016-05-04,major,Failed Impuities/Degradation Specifications
+vial | impurity / degradation / stability,D-0456-2017,2016-12-16,major,Failed Impurities/Degradation Specifications
+bag or infusion | sterility / microbial,D-0939-2016,2016-04-18,major,Lack of Sterility Assurance
+bag or infusion | sterility / microbial,D-1258-2016,2016-04-20,major,Lack of Assurance of Sterility
+bag or infusion | sterility / microbial,D-0868-2016,2016-04-27,major,Lack of Assurance of Sterility: Due to potential for leaking bags.
+bag or infusion | sterility / microbial,D-0206-2017,2016-12-06,major,Lack of Assurance of Sterility: confirmed customer complaints of leaking bags.
+bag or infusion | sterility / microbial,D-0789-2017,2017-05-15,major,Lack of assurance of sterility: customer complaints received for the presence of leaks.
+bag or infusion | sterility / microbial,D-0878-2017,2017-05-18,major,Lack of assurance of sterility: Product bags leaking at seam.
